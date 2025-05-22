@@ -151,3 +151,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+from keep_alive import keep_alive
+keep_alive()
+# keyin botni ishga tushuring
