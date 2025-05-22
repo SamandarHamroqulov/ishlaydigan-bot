@@ -1,0 +1,13 @@
+tests = [
+    {
+        "question": "Which one is a fruit?",
+        "variants": ["Carrot", "Apple", "Potato", "Onion"],
+        "answer": 1  # Apple
+    },
+    {
+        "question": "What is the capital of France?",
+        "variants": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": 2  # Paris
+    },
+    # Qo‘shimcha testlar keyinchalik qo‘shiladi
+]
